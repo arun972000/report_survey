@@ -1,0 +1,14 @@
+body {
+  background-image: url('./assets/grey scale india.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+
+}
+
+
+
+p{
+  padding: 0;
+  margin: 0;
+}

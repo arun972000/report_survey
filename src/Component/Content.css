@@ -1,0 +1,131 @@
+@keyframes blink {
+
+    
+
+    50% {
+        opacity: .2;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.location {
+    animation: blink 1s linear infinite;
+}
+
+.mumbai{
+    position: absolute;
+    top:53%;
+    left:575px
+}
+
+.tarapur{
+    position: absolute;
+    top:50%;
+    left:565px
+}
+
+.nilanchal{
+    position: absolute;
+    top:54%;
+    left:555px
+}
+
+.chennai{
+    position: absolute;
+    top:70%;
+    left:710px
+}
+
+.vizag{
+    position: absolute;
+    top:56%;
+    left:770px
+}
+
+.mudra{
+    position: absolute;
+    top:70%;
+    left:705px
+}
+
+.jamshedpur{
+    position: absolute;
+    top:40%;
+    left:790px
+}
+
+.kolkata{
+    position: absolute;
+    top:41%;
+    left:840px
+}
+
+.meramandalai{
+    position: absolute;
+    top:46%;
+    left:770px
+}
+
+.bokaro{
+    position: absolute;
+    top:36%;
+    left:770px
+}
+
+.jharia{
+    position: absolute;
+    top:36%;
+    left:830px
+}
+
+.kalinganagar{
+    position: absolute;
+    top:46%;
+    left:790px
+}
+
+.ludhiana{
+    position: absolute;
+    top:17%;
+    left:600px
+}
+
+.joda{
+    position: absolute;
+    top:44%;
+    left:800px
+}
+
+.paradip{
+    position: absolute;
+    top:47%;
+    left:790px
+}
+
+.khonbond{
+    position: absolute;
+    top:44%;
+    left:800px
+}
+
+.haldia{
+    position: absolute;
+    top:41%;
+    left:838px
+}
+
+th{
+    font-size: medium;
+}
+
+table{
+    border: 1px solid black;
+}
+
+.city-name{
+    color: #013F7C;
+    font-weight: 800;
+}
